@@ -1,4 +1,4 @@
-[# TITLE]
+[# TITLE]: #
 
 <h1>Intapp's Use of Artifical Intelligence in the Professional & Financial Services market</h1>
 
