@@ -8,6 +8,7 @@
 
 <h1>Intapp Inc.</h1>
 
+<h2>Intapp's Use of Artificial Intelligence in the Professional & Financial Services market</h2>
 [* When was the company incorporated?]: #
 [* Who are the founders of the company?]: #
 
