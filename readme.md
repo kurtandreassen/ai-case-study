@@ -29,7 +29,7 @@ Intapp is now a publicly held company, joining NASDAQ in 2021.  Intapp initially
 
 [* What specific problem is the company or project trying to solve?]: #
 
-According Intapp's IPO filing, the Intapp Platform is purpose-built to modernize Professional Services firms. *"The platform facilitates greater team collaboration, digitizes complex workflows to optimize deal and engagement execution, and leverages proprietary AI to help nurture relationships and originate new business. By better connecting their most important assets—people, processes, and data—our platform helps firms increase client fees.
+According to Intapp's IPO filing, the Intapp Platform is purpose-built to modernize Professional Services firms. *"The platform facilitates greater team collaboration, digitizes complex workflows to optimize deal and engagement execution, and leverages proprietary AI to help nurture relationships and originate new business. By better connecting their most important assets—people, processes, and data—our platform helps firms increase client fees.
 and investment returns, operate more efficiently, and better manage risk and compliance."*
 
 In February of 2024, Intapp launched "Intelligence Applied", incorporating AI to act quickly, reduce effort, identify new opportunities, ensure compliance, and reducing risk across its Marketing and Risk product suites.
