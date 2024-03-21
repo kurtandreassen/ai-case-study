@@ -8,7 +8,7 @@
 
 <h1>Intapp Inc.</h1>
 
-<h2>Overview and Origint</h2>
+<h2>Overview and Origin</h2>
 [* When was the company incorporated?]: #
 [* Who are the founders of the company?]: #
 
@@ -28,6 +28,8 @@ Intapp is now a publicly held company, joining NASDAQ in 2021.  Intapp initially
 
 [## Business Activities]: #
 
+<h2>Business Activities</h2>
+
 [* What specific problem is the company or project trying to solve?]: #
 
 According to Intapp's IPO filing, the Intapp Platform is purpose-built to modernize Professional Services firms. *"The platform facilitates greater team collaboration, digitizes complex workflows to optimize deal and engagement execution, and leverages proprietary AI to help nurture relationships and originate new business. By better connecting their most important assets—people, processes, and data—our platform helps firms increase client fees.
@@ -41,7 +43,7 @@ In February of 2024, Intapp launched "Intelligence Applied", incorporating AI to
 Professional and Financial services firms globally, including private capital, investment banking, legal, accounting, and consulting firms with an ongoing focus on Law Firms.  According to intapp [prospectus](https://investors.intapp.com/static-files/a41b2c2b-eb81-4d07-8dcd-db3824ad3944), there is global market of 1600 clients and 9.6 billion in revenue.
 
 
-
+<h2>Intapp's Solutions</h2>
 
 [* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)]: #
 
