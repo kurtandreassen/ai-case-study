@@ -76,7 +76,7 @@ For overall solutions, Intpp's competitors include SAP, Clio, Lexis Nexis, Thomp
 
 
 <h2>Intapp's Peformance</h2>
-## Results
+[* ## Results]: #
 
 [* What has been the business impact of this company so far?]: #
 
