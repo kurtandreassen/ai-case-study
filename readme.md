@@ -1,6 +1,6 @@
 [# TITLE]: #
 
-<h1>Intapp's Use of Artificial Intelligence in the Professional & Financial Services market</h1>
+<h1>Intapp's Use of Artificial Intelligence for Professional & Financial Services Orgnziations</h1>
 
 [* ## Overview and Origin]: #
 
@@ -20,7 +20,7 @@ Intapp was founded December of 2000, with headquarters in Palo Alto, California.
 [* How did the idea for the company (or project) come about?]: #
 
 The companies initial purpose to create appliance to allowed companies to consolidate data from different sources. An early client was a law firm, which lead to Intapp focus in the Professional and Financial Services industries, specifically Law Firms initially. 
-> According to Dan Harsell, a co-founder, who noted as part Intapp's [history page](https://www.intapp.com/blog/intapps-history-cofounder-dan-harsell/) that "an early adopter was the CIO at a Law Firm...which provided a blueprint for selling into other law firms". As the company grew, it added to its product line through acquisitions of DealCloud, Gwabbit, Rekoop, Advanced Productivity Software, and the Frayman group. 
+> According to Dan Harsell, a co-founder, who noted as part Intapp's [history page](https://www.intapp.com/blog/intapps-history-cofounder-dan-harsell/) that "an early adopter was the CIO at a Law Firm, which provided a blueprint for selling into other law firms". As the company grew, it added to its product line through acquisitions of DealCloud, Gwabbit, Rekoop, Advanced Productivity Software, and the Frayman group.(Crunchbase, 2024) 
 
 
 [* How is the company funded? How much funding have they received?]: #
@@ -101,6 +101,7 @@ As a publicly held company, new subscriptions and subscription retention is need
 [* Why are these technologies appropriate for your solution?]: #
 
 It is recommended that Intapp ensure that it's products and AI technology protects its client confidential data. Law Firm and professional services organizations must be confident that information is secure externally and from its competitors utilizing Intapp's systems. 
+Additionally, remaining cutting edget with it's core products and new technology thorugh acquisition of specialized companies as as the recently announced acuisition of AI software company delphai. (Intapp, 2024)
 
 
 
@@ -119,6 +120,8 @@ Bach, Carolyn (2024), LexisNexis Rolls Out Free Access To Lexis+ AI For Law Stud
 
 Business Wire (2024), Elite Unveils New Generative AI Time Entry Capability, https://www.businesswire.com/news/home/20230823533670/en/Elite-Unveils-New-Generative-AI-Time-Entry-Capability
 
+Crunchbase 2024, Intapp Acquisistiios, https://www.crunchbase.com/search/acquisitions/field/organizations/num_acquisitions/intapp
+
 CIO (2024), SAP announces $2.2B restructuring program that’ll impact 8,000 jobs, https://www.cio.com/article/1297964/sap-announces-2-2b-restructuring-program-thatll-impact-8000-jobs.html
 Hill, Jan (2024), How Will Technology Change in the Future for Lawyers?, https://www.lawmatics.com/blog/how-will-technology-change-in-the-future-for-lawyers/
 
@@ -131,6 +134,8 @@ Intapp, Inc. (2024), Intapp Walls for Copilot, https://www.intapp.com/walls/copi
 Intapp, Inc. (2024), Intapp Assist for DealCloud, Video, https://www.youtube.com/watch?v=yZRrKf5Jd1U
 
 Intapp, Inc. (2021), IPO Prospectus (pages 1, 3, 6 – 22), https://investors.intapp.com/static-files/a41b2c2b-eb81-4d07-8dcd-db3824ad3944
+
+Intapp, Inc. (2024), Intapp announces plan to acquire AI software company delphai, https://www.intapp.com/news/intapp-to-acquire-delphai/
 
 Seeking Alpha (2024), Intapp Shows Revenue Growth From Bigger Addressable Market, https://seekingalpha.com/article/4567414-intapp-stock-revenue-growth-bigger-addressable-market
 
