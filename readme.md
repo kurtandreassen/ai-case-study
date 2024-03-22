@@ -9,8 +9,9 @@
 <h1>Intapp Inc.</h1>
 
 <h2>Overview and Origin</h2>
-[* When was the company incorporated?]: #
-[* Who are the founders of the company?]: #
+
+[* ## When was the company incorporated?]: #
+[* ## Who are the founders of the company?]: #
 
 Intapp was founded December of 2000, with headquarters in Palo Alto, California. According to Intapp's [website](https://www.intapp.com/blog/intapp-celebrates-20-years-of-innovation/), the company was originally named Tsunami Software, the name was later changes in alignment with its product offering of Integration Appliance, shortened to Inapp.  Intapp was founded by Thad Jampol, Dan Harsell, and Vera Newman. 
 
