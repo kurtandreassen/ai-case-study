@@ -43,7 +43,7 @@ In February of 2024, Intapp launched "Intelligence Applied", incorporating AI to
 Professional and Financial services firms globally, including private capital, investment banking, legal, accounting, and consulting firms with an ongoing focus on Law Firms.  According to intapp [prospectus](https://investors.intapp.com/static-files/a41b2c2b-eb81-4d07-8dcd-db3824ad3944), there is global market of 1600 clients and 9.6 billion in revenue.
 
 
-<h2>Intapp's Solutions</h2>
+<h2>Intapp's Solution Advantage</h2>
 
 [* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)]: #
 
@@ -55,7 +55,7 @@ With access to an ecosystem of connected clients - Law firms, Private Equity & I
 
 Intapp is a strategic partner with Microsoft. Intapp provides a variety of cloud-based solutions on Microsoft azure. with the incorporation AI. Additionally, Intapp has adapted it Walls security platform to secure sensitive data access by Microsoft Copilot.
 
-
+<h2>Intapp's Industry Landscape</h2>
 [## Landscape]: #
 
 [* What field is the company in?]: #
@@ -74,7 +74,7 @@ Over the last 10-15 years, specifically for law firms, acceptance of utilizing 3
 For overall solutions, Intpp's competitors include SAP, Clio, Lexis Nexis, Thompson Reuters and Elite with most offering some degree of AI incorporated into their solutions.
 
 
-
+<h2>Intapp's Peformance</h2>
 ## Results
 
 [* What has been the business impact of this company so far?]: #
@@ -89,6 +89,7 @@ As a publicly held company, new subscriptions and subscription retention is need
 [* How i. our company performing relative to competitors in the same field?]: #
 
 ## Recommendations
+<h2>Recomendations</h2>
 
 [* If you were to advise the company, what products or services would you suggest they offer? This could be something that a competitor offers, or use your imagination!)]: #
 [* Why do you think that offering this product or service would benefit the company?]: #
@@ -96,6 +97,7 @@ As a publicly held company, new subscriptions and subscription retention is need
 [* Why are these technologies appropriate for your solution?]: #
 
 It is recommended that Intapp ensure that it's products and AI technology protects its client confidential data. Law Firm and professional services organizations must be confident that information is secure externally and from its competitors utilizing Intapp's systems. 
+
 
 Reference List
 https://stockanalysis.com/stocks/inta/company/
