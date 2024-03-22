@@ -19,7 +19,7 @@ Intapp was founded December of 2000, with headquarters in Palo Alto, California.
 
 [* How did the idea for the company (or project) come about?]: #
 
-The company initial purpose to create appliance to allowed companies to consolidate data from different sources. An early client was a law firm, which lead to Intapp focus in the Professional and Financial Services industries, specifically Law Firms initially. 
+The companies initial purpose to create appliance to allowed companies to consolidate data from different sources. An early client was a law firm, which lead to Intapp focus in the Professional and Financial Services industries, specifically Law Firms initially. 
 > According to Dan Harsell, a co-founder, who noted as part Intapp's [history page](https://www.intapp.com/blog/intapps-history-cofounder-dan-harsell/) that "an early adopter was the CIO at a Law Firm...which provided a blueprint for selling into other law firms". As the company grew, it added to its product line through acquisitions of DealCloud, Gwabbit, Rekoop, Advanced Productivity Software, and the Frayman group. 
 
 
