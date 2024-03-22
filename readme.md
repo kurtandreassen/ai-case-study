@@ -57,9 +57,10 @@ With access to an ecosystem of connected clients - Law firms, Private Equity & I
 Intapp is a strategic partner with Microsoft. Intapp provides a variety of cloud-based solutions on Microsoft azure. with the incorporation AI. Additionally, Intapp has adapted it Walls security platform to secure sensitive data access by Microsoft Copilot.
 
 <h2>Intapp's Industry Landscape</h2>
-[## Landscape]: #
-[## What field is the company in?]: #
 
+[* ## Landscape]: #
+
+[* ## What field is teh company in?]: #
 
 Professional and Financial services, with a larger number of Law Firm utilizing its Risk & Time keeping solutions, and Private Equity firm utilizing its DealCloud CRM systems. 
 
