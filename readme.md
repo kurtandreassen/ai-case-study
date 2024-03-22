@@ -84,6 +84,7 @@ For overall solutions, Intpp's competitors include SAP, Clio, Lexis Nexis, Thomp
 
 Intapp has grown significantly over the last 5 years through acquisition and market penetration in Accounting and Consulting, with quarterly revenue trending upward. (Seeking Alpha, 2024)
 
+                                         ![image](https://github.com/kurtandreassen/ai-case-study/assets/162835876/10b67a13-54a4-4041-82fb-87e25e1735a2)
 
 [* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?]: #
 
