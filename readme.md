@@ -2,7 +2,7 @@
 
 <h1>Intapp's Use of Artificial Intelligence for Professional & Financial Services Orgnziations</h1>
 
-[* ## Overview and Origin]: #
+[* ## Overview]: #
 
 [* Name of company]: #
 
