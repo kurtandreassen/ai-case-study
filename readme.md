@@ -25,7 +25,7 @@ The companies initial purpose to create appliance to allowed companies to consol
 
 [* How is the company funded? How much funding have they received?]: #
 
-Intapp is now a publicly held company, joining NASDAQ in 2021.  Intapp initially was self-funded by its founders, with initial undisclosed investment received in 2012 from Great Hill Partners. According to Intapp IPO, Great Hill Partners and Temasek as cornerstone investors noted interest of $60 million on shares. (Intapp,2021,*Intapp IPO*,3/20/2024,
+Intapp is now a publicly held company, joining NASDAQ in 2021.  Intapp initially was self-funded by its founders, with an initial undisclosed investment received in 2012 from Great Hill Partners. According to Intapp's IPO prospectus, Great Hill Partners and Temasek as cornerstone investors noted interest of $60 million on shares. (Intapp,2021)
 
 [## Business Activities]: #
 
