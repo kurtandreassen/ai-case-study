@@ -103,31 +103,28 @@ As a publicly held company, new subscriptions and subscription retention is need
 
 It is recommended that Intapp ensure that it's products and AI technology protects its client confidential data. Law Firm and professional services organizations must be confident that information is secure externally and from its competitors utilizing Intapp's systems. 
 
-
-Reference List
-https://stockanalysis.com/stocks/inta/company/
-https://www.intapp.com/blog/intapp-celebrates-20-years-of-innovation/
-https://seekingalpha.com/article/4567414-intapp-stock-revenue-growth-bigger-addressable-market   GRAPH?
-https://www.businesswire.com/news/home/20230823533670/en/Elite-Unveils-New-Generative-AI-Time-Entry-Capability
-https://www.lexisnexis.com/community/insights/legal/b/product-features/posts/lexisnexis-rolls-out-free-access-to-lexis-ai-for-law-students#:~:text=LexisNexis%20has%20pioneered%20the%20use,capabilities%20to%20the%20next%20level.
-https://www.cio.com/article/1297964/sap-announces-2-2b-restructuring-program-thatll-impact-8000-jobs.html
-
-https://www.lawmatics.com/blog/how-will-technology-change-in-the-future-for-lawyers/
-https://www.intapp.com/news/intapp-announces-microsoft-partnership/
-https://www.intapp.com/walls/copilot/
-https://www.youtube.com/watch?v=yZRrKf5Jd1U
-https://investors.intapp.com/static-files/a41b2c2b-eb81-4d07-8dcd-db3824ad3944 pg 6
+<p style="text-align: center;"><h2>Referencess</h2></p>
 
 
+Borman, W. C., Hanson, M. A., Oppler, S. H., Pulakos, E. D., & White, L. A. (1993). Role of early supervisory experience in supervisor performance. Journal of Applied Psychology, 78, 443-449. https://doi.org/10.1037/0021-9010.78.3.443
 
+Bach, Carolyn (2024), LexisNexis Rolls Out Free Access To Lexis+ AI For Law Students, https://www.lexisnexis.com/community/insights/legal/b/product-features/posts/lexisnexis-rolls-out-free-access-to-lexis-ai-for-law-students#:~:text=LexisNexis%20has%20pioneered%20the%20use,capabilities%20to%20the%20next%20level
 
-https://investors.intapp.com/static-files/a41b2c2b-eb81-4d07-8dcd-db3824ad3944 pg 6
+Business Wire (2024), Elite Unveils New Generative AI Time Entry Capability, https://www.businesswire.com/news/home/20230823533670/en/Elite-Unveils-New-Generative-AI-Time-Entry-Capability
 
-https://www.youtube.com/watch?v=caepEUi2IZ4
-https://www.intapp.com/blog/intapp-celebrates-20-years-of-innovation/
-https://investors.intapp.com/static-files/a41b2c2b-eb81-4d07-8dcd-db3824ad3944
+CIO (2024), SAP announces $2.2B restructuring program that’ll impact 8,000 jobs, https://www.cio.com/article/1297964/sap-announces-2-2b-restructuring-program-thatll-impact-8000-jobs.html
+Hill, Jan (2024), How Will Technology Change in the Future for Lawyers?, https://www.lawmatics.com/blog/how-will-technology-change-in-the-future-for-lawyers/
 
-https://investors.intapp.com/static-files/a41b2c2b-eb81-4d07-8dcd-db3824ad3944 pg 3 and pg 6
+Intapp, Inc. (2024), Intapp Celebrates 20 years of Innovation, https://www.intapp.com/blog/intapp-celebrates-20-years-of-innovation/
 
-https://investors.intapp.com/static-files/a41b2c2b-eb81-4d07-8dcd-db3824ad3944   page 1
+Intapp, Inc. (2024), Intapp Announces Strategic Partnership with Microsoft to Accelerate Cloud Adoption in Professional and Financial Services Industry, https://www.intapp.com/news/intapp-announces-microsoft-partnership/
 
+Intapp, Inc. (2024), Intapp Walls for Copilot, https://www.intapp.com/walls/copilot/
+
+Intapp, Inc. (2024), Intapp Assist for DealCloud, Video, https://www.youtube.com/watch?v=yZRrKf5Jd1U
+
+Intapp, Inc. (2021), IPO Prospectus (pages 1, 3, 6 – 22), https://investors.intapp.com/static-files/a41b2c2b-eb81-4d07-8dcd-db3824ad3944
+
+Seeking Alpha (2024), Intapp Shows Revenue Growth From Bigger Addressable Market, https://seekingalpha.com/article/4567414-intapp-stock-revenue-growth-bigger-addressable-market
+
+Stock Analysis (1993), Company & Stock Summary, https://stockanalysis.com/stocks/inta/company/
