@@ -73,7 +73,7 @@ Over the last 10-15 years, specifically for law firms, acceptance of utilizing 3
 
 [* What are the other major companies in this field?]: #
 
-For overall solutions, Intpp's competitors include SAP, Clio, Lexis Nexis, Thompson Reuters and Elite with most offering some degree of AI incorporated into their solutions.
+For overall solutions, Intpp's competitors include SAP, Clio, Lexis Nexis, Thompson Reuters and Elite with most offering some degree of AI incorporated into their solutions. (Seeking Alpha, 2024)
 
 
 <h2>Intapp's Peformance</h2>
@@ -84,7 +84,10 @@ For overall solutions, Intpp's competitors include SAP, Clio, Lexis Nexis, Thomp
 
 Intapp has grown significantly over the last 5 years through acquisition and market penetration in Accounting and Consulting, with quarterly revenue trending upward. (Seeking Alpha, 2024)
 
-                                         ![image](https://github.com/kurtandreassen/ai-case-study/assets/162835876/10b67a13-54a4-4041-82fb-87e25e1735a2)
+                                     <img src=" https://static.seekingalpha.com/uploads/2023/1/2/saupload_vgSowgsX005HyUk0Z9tZNoZmWHpzKgOpCf5Akn9bz7H9pejriokz1iRPOiUqy-uvrLeipzvLdMTl9WfSCC6A7LdQvL39YzmDNLOQZirOttXUGaHw8Mqj9H_PChbGT7vq3IvPCFZnFKuEHDWHwFo2RhsKo3p6DBPv2g0Ku2Lind_ewGFTRjFK30OJQw2RbQ.png"
+alt="SeekingAlpah"
+style="float: left; margin-right: 10px;" />
+
 
 [* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?]: #
 
@@ -103,10 +106,18 @@ As a publicly held company, new subscriptions and subscription retention is need
 
 It is recommended that Intapp ensure that it's products and AI technology protects its client confidential data. Law Firm and professional services organizations must be confident that information is secure externally and from its competitors utilizing Intapp's systems. 
 
+
+
+
+
+
+
+
+
+
 <p style="text-align: center;"><h2>Referencess</h2></p>
 
 
-Borman, W. C., Hanson, M. A., Oppler, S. H., Pulakos, E. D., & White, L. A. (1993). Role of early supervisory experience in supervisor performance. Journal of Applied Psychology, 78, 443-449. https://doi.org/10.1037/0021-9010.78.3.443
 
 Bach, Carolyn (2024), LexisNexis Rolls Out Free Access To Lexis+ AI For Law Students, https://www.lexisnexis.com/community/insights/legal/b/product-features/posts/lexisnexis-rolls-out-free-access-to-lexis-ai-for-law-students#:~:text=LexisNexis%20has%20pioneered%20the%20use,capabilities%20to%20the%20next%20level
 
